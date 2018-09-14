@@ -11,7 +11,7 @@
     "pg": "^7.4.3"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
