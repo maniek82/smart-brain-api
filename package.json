@@ -1,0 +1,20 @@
+{
+  "name": "smart-brain-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "clarifai": "^2.8.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "knex": "^0.15.2",
+    "pg": "^7.4.3"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0",
+    "nodemon": "^1.18.4"
+  }
+}
